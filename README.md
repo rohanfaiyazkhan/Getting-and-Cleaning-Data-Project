@@ -1,12 +1,12 @@
-###Getting and Cleaning Data Project
+### Getting and Cleaning Data Project
 
 Repository for Getting and Cleaning Data Project Submission
 
-##Overview
+## Overview
 
 The purpose of this project is to demonstrate our ability to collect, work with, and clean a data set. The goal is to prepare tidy data that can be used for later analysis. The raw data and the description of the files used can be [found here](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).
 
-##Requirements
+## Requirements
 
 The requirements of this project are to write a script (run_analysis.R) that does the following:
 

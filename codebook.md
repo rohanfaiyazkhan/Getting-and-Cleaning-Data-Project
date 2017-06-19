@@ -1,12 +1,12 @@
-###Codebook
+### Codebook
 
 Repository for Getting and Cleaning Data Project Submission
 
-##Overview
+## Overview
 
 The purpose of this project is to demonstrate our ability to collect, work with, and clean a data set. The goal is to prepare tidy data that can be used for later analysis. The raw data and the description of the files used can be [found here](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).
 
-##Datasets used
+## Datasets used
 
 The tidy.txt summarizes the data in the following datasets found in the source.
 
@@ -19,7 +19,7 @@ The tidy.txt summarizes the data in the following datasets found in the source.
 * x_test.txt
 * y_test.txt
 
-##Identifiers
+## Identifiers
 
 * activity: The type of activity performed when the test was carried out (either WALKING
 , WALKING_UPSTAIRS, WALKING_DOWNSTAIRS
@@ -29,7 +29,7 @@ The tidy.txt summarizes the data in the following datasets found in the source.
 )
 * subject: The ID of the subjects
 
-##Measurements
+## Measurements
 *timeBodyAccelerometerMeanX
 *timeBodyAccelerometerMeanY
 *timeBodyAccelerometerMeanZ
