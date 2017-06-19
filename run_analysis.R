@@ -67,4 +67,4 @@ tidy$activity <- factor(tidy$activity, levels = activityLabels[,1], labels = act
 tidy2<-aggregate(tidy[,3:81],by=list(activity=tidy$activity, subject=tidy$subject),mean)
 
 ## write the new dataset into a file
-write.table(tidy2, './tidyData.txt',row.names=TRUE,sep='\t')
+write.table(tidy2, './tidyData.txt',row.names=FALSE,sep='\t')
